@@ -4,9 +4,7 @@
 
 - Clone this repo
 ```
-git clone https://github.com/samuelayo/elastic-node.git
-
-
+git clone https://github.com/bhavinsa/elastic-node.git
 ```
 - change directory into the newly cloned repo
 ```
